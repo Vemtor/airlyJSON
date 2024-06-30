@@ -17,7 +17,7 @@ public class Main {
         String stationURL = "https://api.gios.gov.pl/pjp-api/rest/station/findAll";
         String installationURL = "https://api.gios.gov.pl/pjp-api/rest/station/sensors/";
 
-        System.out.println("### Wait, we are downloading data... ### \n");
+        System.out.println("### Wait, we are downloading data. Just give as a couple of seconds... ### \n");
         String stationJson = ApiClient.getJsonResponse(stationURL);
         List<Station> stations = JsonMapper.mapJsonToStations(stationJson, installationURL);
 
