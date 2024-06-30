@@ -5,7 +5,10 @@
 ## Short description
 This app scrapes data from the GIOS API https://powietrze.gios.gov.pl/pjp/content/api. 
 AirlyJSON first downloads and maps all the necessary data, then prints it to the console. 
-To run the app, simply execute the main class. You can also find fields in the main class to manage the API links.
+To run the app, simply execute the main class. 
+You can also find fields in the main class to manage the API links.
+
+
 <img width="785" alt="image" src="https://github.com/Vemtor/airlyJSON/assets/20191221/f7b0ca90-c9fe-4f3e-9b3d-07f047e8eeae">
 
 
