@@ -15,6 +15,7 @@ You can also find fields in the main class to manage the API links.
 ## What you need
 1. Make sure that you have already java installed. 
 2. Project is build on Java 22 with Maven. So please be sure that maven already works on your computer.
-3. As mentioned earlier, just run the main class and wait a few seconds. The data should appear shortly! :)
+3. After you open the project, load the Maven dependencies. A button to do this should appear in the bottom right corner.
+4. As mentioned earlier, just run the main class and wait a few seconds. The data should appear shortly! :)
 
 
